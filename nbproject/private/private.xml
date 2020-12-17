@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/jspAdmin/tacGiaAdmin.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/conf/MANIFEST.MF</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/insert/InsertNgonNgu.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/insert/InsertDonHang.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/insert/InsertNXB.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/controller/SachController.java</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/insert/InsertSach.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/index.html</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/jspAccount/menu.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/jspAccount/login.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/controllerAdmin/InforKH.java</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/dao/AllTacGia.java</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/jspAdmin/NXB.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/jspAdmin/NgonNgu.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/daoAdmin/SachAdminDAO.java</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/jspAdmin/TheLoai.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/updateController/UpdateDonHangController.java</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/updateController/UpdateChiTietDonHangController.java</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/jspAdmin/donHang.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/jspAccount/registration.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/context/DBContext.java</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/daoAdmin/ChiTietDonHangDAO.java</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/jspAccount/user.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/insert/InsertTheLoai.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/insert/InsertSachVaTacGia.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/model/Account.java</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/jspAdmin/sachAdmin.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/jspAdmin/SachVaTacGia.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/dao/TacGiaDAO.java</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/jspAdmin/ChiTietSach.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/insert/InsertChiTietDonHang.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/insert/InsertChiTietSach.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/updateController/UpdateNXBController.java</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/dathang.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/WEB-INF/web.xml</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/xacnhandonhang.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/model/Sach.java</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/insert/InsertKhachHang.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/insert/InsertTacGia.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/AccountController/InforFilter.java</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/deleteController/DeleteSachController.java</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/jspAdmin/ChiTietDonHang.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/controller/AllTacGiaController.java</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/dao/SachDAO.java</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/updateController/UpdateChiTietSachController.java</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/jspAdmin/khachHang.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/web/muasach.jsp</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/updateController/UpdateKhachHangController.java</file>
+            <file>file:/F:/Book/NaTraQuiCeBook_DoneCode/src/java/controller/handle.java</file>
+        </group>
+    </open-files>
+</project-private>
